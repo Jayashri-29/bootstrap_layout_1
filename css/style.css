@@ -1,0 +1,57 @@
+.Header
+{
+    background-color: black;
+    color: white;
+    min-height: 20px;
+}
+.Header a
+{
+    color: white;
+}
+.second
+{
+    background-color: black;
+    color: white;
+    min-height: 30px;
+}
+.message
+{
+    background-color: lightgrey;
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image12
+{
+    height: 5px;
+}
+.third
+{
+    text-align: center;
+}
+
+.main
+{
+    display: flex;
+    width: 100%;
+    font-size: 15px;
+}
+.left
+{
+    width: 25%;
+}
+.right
+{
+    width: 73%;
+    padding-left: 10px;
+}
+.footer
+{
+    background-color: blue;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
